@@ -254,10 +254,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     CarrierConfigOverlayFlame \
     FrameworkResOverlayFlame \
-    Launcher3OverlayFlame \
-    LineageSDKOverlayFlame \
-    LineageSettingsOverlayFlame \
-    LineageSettingsProviderOverlayFlame \
+    LauncherOverlayFlame \
     SettingsOverlayFlame \
     SystemUIOverlayFlame \
     TelephonyOverlayFlame \

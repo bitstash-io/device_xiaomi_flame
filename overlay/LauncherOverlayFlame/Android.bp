@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "Launcher3OverlayFlame",
+    name: "LauncherOverlayFlame",
     product_specific: true,
 }

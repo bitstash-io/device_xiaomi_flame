@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_flame.mk
+    $(LOCAL_DIR)/custom_flame.mk
