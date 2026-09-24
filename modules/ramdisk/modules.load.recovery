@@ -90,7 +90,6 @@ chipreg.ko
 mtdblock.ko
 mtd.ko
 pm8941-pwrkey.ko
-mi_rmap_efficiency.ko
 msm_sysstats.ko
 zsmalloc.ko
 lzo.ko
