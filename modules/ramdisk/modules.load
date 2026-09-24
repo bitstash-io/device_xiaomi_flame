@@ -82,7 +82,6 @@ ufshcd-crypto-qti.ko
 tmecom-intf.ko
 bcl_pmic5.ko
 dispcc-ravelin.ko
-mi_memory.ko
 mtd_blkdevs.ko
 ofpart.ko
 mtdoops.ko
