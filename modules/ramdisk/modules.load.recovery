@@ -292,9 +292,7 @@ cfg80211.ko
 qrtr-smd.ko
 qrtr-mhi.ko
 qrtr-gunyah.ko
-wifi_ant_check.ko
 bootinfo.ko
 msm_drm.ko
 msm-mmrm.ko
 swinfo.ko
-wifi_ant_check.ko

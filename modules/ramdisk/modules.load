@@ -90,7 +90,5 @@ chipreg.ko
 mtdblock.ko
 mtd.ko
 pm8941-pwrkey.ko
-wifi_ant_check.ko
 bootinfo.ko
 swinfo.ko
-wifi_ant_check.ko
