@@ -292,7 +292,6 @@ cfg80211.ko
 qrtr-smd.ko
 qrtr-mhi.ko
 qrtr-gunyah.ko
-bootinfo.ko
 msm_drm.ko
 msm-mmrm.ko
 swinfo.ko
