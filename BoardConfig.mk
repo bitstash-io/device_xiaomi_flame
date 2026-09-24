@@ -100,7 +100,7 @@ BOARD_RAMDISK_USE_LZ4 := true
 BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_USES_GENERIC_KERNEL_IMAGE := true
 
-TARGET_KERNEL_SOURCE := kernel/xiaomi/flame
+TARGET_KERNEL_SOURCE := kernel/xiaomi/sm4450
 TARGET_KERNEL_CONFIG := \
     gki_defconfig \
     vendor/parrot_GKI.config \
