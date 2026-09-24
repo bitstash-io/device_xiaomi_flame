@@ -65,7 +65,6 @@ qcom_soc_wdt.ko
 sys_pm_vx.ko
 msm_ext_display.ko
 icnss2.ko
-rimps_log.ko
 plh_scmi.ko
 shared_rail_scmi.ko
 qdss_bridge.ko
